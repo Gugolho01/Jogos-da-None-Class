@@ -35,4 +35,5 @@ Jogo da bolinha
 
   Esse é um jogo onde a bolinha fica subindo e precisa passar pela cor que ela tem
  
-![image](https://user-images.githubusercontent.com/92238035/170058084-5b8d49d2-3cc1-41f0-b5bc-91628f1c639a.png)
+![image](https://user-images.githubusercontent.com/92238035/170058344-0afe83cc-7c9b-468e-b396-27a73d4a248b.png)
+
