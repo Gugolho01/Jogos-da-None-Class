@@ -2,6 +2,11 @@
 jogos que eu criei com a none class
 
 ##
+Game Maker 2
+
+  Jogos criados no Game Maker 2 com esse curso.
+
+##
 Um jogo Top Down (não tem nome)
 
   nele vc é um cara armado e precisa atirar em todos os virus da area,
@@ -37,3 +42,14 @@ Jogo da bolinha
  
 ![image](https://user-images.githubusercontent.com/92238035/170058344-0afe83cc-7c9b-468e-b396-27a73d4a248b.png)
 
+##
+Unity
+
+  Jogos criados ná Unity com esse curso
+
+##
+Jogo do Rei
+
+  Nessa aventura você é um Rei que está em busca de reconquistar seu castelo e precisa derrotar seus inimigos porquinhos.
+  
+![image](https://user-images.githubusercontent.com/92238035/177353295-2c3927b2-80f5-4c75-9fc2-53c21a3aae4d.png)
